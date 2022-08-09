@@ -1,5 +1,6 @@
 # Voice assistant "Jarvis"
  My first big Python project which I posted on GitHub.
+ If you know how to improve my project then please write it I do not consider myself strong in programming I am ready to accept your criticism to my address.
 ## Funchins:
 - See the weather in your city.
 
